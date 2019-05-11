@@ -22,27 +22,27 @@ Total: 22H  goal to finish it in two days
 
 open.appacademy.io
 
-Welcome To Coding
-Full Stack Online - Intro to Programming
-	+ Introduction
-	+ Numbers
-	+ Booleans
-	+ Strings
-	+ Variables
-	+ Methods
-	+ Conditionals
-	+ Loops
-	+ Arrays
-	+ Array Methods & Enumerables
-	+ Hashes
-	+ Advanced Problems
+Welcome To Coding  
+Full Stack Online - Intro to Programming  
++ Introduction
++ Numbers
++ Booleans
++ Strings
++ Variables
++ Methods
++ Conditionals
++ Loops
++ Arrays
++ Array Methods & Enumerables
++ Hashes
++ Advanced Problems
 	
-Full Stack Online - Software Engineering Foundations
-Full Stack Online - Ruby
-Full Stack Online - SQL
-Full Stack Online - Rails
-Full Stack Online - JavaScript
-Full Stack Online - React
-Full Stack Online - Full Stack Project
-Full Stack Online - Job Search
-Full Stack Online - GraphQL
+Full Stack Online - Software Engineering Foundations  
+Full Stack Online - Ruby  
+Full Stack Online - SQL  
+Full Stack Online - Rails  
+Full Stack Online - JavaScript  
+Full Stack Online - React  
+Full Stack Online - Full Stack Project  
+Full Stack Online - Job Search  
+Full Stack Online - GraphQL  

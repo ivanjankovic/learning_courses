@@ -34,10 +34,36 @@ Full Stack Online - Intro to Programming
 + Loops
 + Arrays
 + Array Methods & Enumerables
+  + Abbreviate Sentence - revisit
+  + Pig Latin Word - revisit
+  + Combinations - revisit
 + Hashes
-+ Advanced Problems
+  + Ae Count - revisit
+  + Element Count - revisit
+  + Frequent Letters - revisit
+  + Unique Elements - revisit
++ Advanced Problems  
+  + Most Vowels - revisit
+  + Prime - revisit
+  + Pick Primes - revisit
 	
 Full Stack Online - Software Engineering Foundations  
++ Introduction - 01:19:00
++ Advanced Ruby - 02:58:00
++ Scope & References - 03:45:00
++ RSpec - 06:43:00
++ Debugging - 04:30:00
++ Blocks & Procs - 04:45:00
++ Classes - 6:30:00
++ Class Monkey Patching - 03:10:00
++ Input/Output - 09:31:00
++ Object Oriented Programming - 12:47:00
++ Recursion - 02:14:00
++ Foundations Recap - 03:00:00  
+
+toatl time set 61H & 12m
+______________________________________
+
 Full Stack Online - Ruby  
 Full Stack Online - SQL  
 Full Stack Online - Rails  
